@@ -1,6 +1,0 @@
-a = input("enter a no.:")
-b = input("enter another no.:")
-print("the sum of ",a,"and",b, "is",int(a)+int(b))
-print(type(a))
-c = int(input("enter a no.:"))
-print(type(c))
