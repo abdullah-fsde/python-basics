@@ -1,0 +1,12 @@
+story = "once upon a time, there lived a ghost and he was known to be a killer , and feared the most"
+print(len(story))
+print(story.capitalize())
+print(story.upper())
+print(story.lower())
+print(story.title())
+print(story.count('a'))  
+print(story.find('ghost'))  
+print(story.replace('ghost', 'abdullah'))
+print(story.endswith('most'))
+print(story.startswith('once'))
+print(story.split(' '))
