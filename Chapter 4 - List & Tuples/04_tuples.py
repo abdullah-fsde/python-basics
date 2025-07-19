@@ -1,0 +1,10 @@
+t = (1 , 2,3 ,4,5)
+print(t[0])
+# t[0] = 1000 
+print(t[0:1])
+p = (1)
+print(p)
+print(type(t))
+print(type(p))
+c = (1,)
+print(type(c))
