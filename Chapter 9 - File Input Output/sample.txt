@@ -1,0 +1,3 @@
+hi there 
+this is a sample text file 
+use this file for program purposes

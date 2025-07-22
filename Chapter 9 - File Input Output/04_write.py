@@ -1,0 +1,5 @@
+f = open("sample2.txt",'w')
+f.write("hello jii")
+f.write(", kaise ho")
+f.write(", sab thik?")
+f.close()
